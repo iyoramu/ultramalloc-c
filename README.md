@@ -44,7 +44,7 @@ UltraMalloc is a high-performance memory allocation library that combines cuttin
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/iyoramu/ultramalloc.git
+git clone https://github.com/iyoramu/ultramalloc-c.git
 cd ultramalloc
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
@@ -98,7 +98,7 @@ malloc_leak_check();
 ## 📚 Documentation
 
 Full documentation available at:  
-[https://github.com/iyoramu/ultramalloc/wiki](https://github.com/iyoramu/ultramalloc/wiki)
+[https://github.com/iyoramu/ultramalloc/wiki](https://github.com/iyoramu/ultramalloc-c/wiki)
 
 ## 📦 Integration Options
 
