@@ -98,7 +98,7 @@ malloc_leak_check();
 ## 📚 Documentation
 
 Full documentation available at:  
-[https://github.com/iyoramu/ultramalloc/wiki](https://github.com/iyoramu/ultramalloc-c/wiki)
+[https://github.com/iyoramu/ultramalloc-c/wiki](https://github.com/iyoramu/ultramalloc-c/wiki)
 
 ## 📦 Integration Options
 
